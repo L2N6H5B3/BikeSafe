@@ -4,9 +4,9 @@ BIKE SAFE - helping kids find a safe bike path to school.
 
 There are plenty of great reasons for kids to ride their bikes to school. The national Ride to School Day people say.
 
-·         Riding to school helps students feel fresh and alert at the beginning of a school day.
-·         Students are more likely to reach the recommended 60 minutes of physical activity they need each day if they ride.
-·         Students who ride feel happier, healthier and perform better in the classroom.
+-Riding to school helps students feel fresh and alert at the beginning of a school day.
+-Students are more likely to reach the recommended 60 minutes of physical activity they need each day if they ride.
+-Students who ride feel happier, healthier and perform better in the classroom.
 
 (Source: Ride2School Program https://www.bicyclenetwork.com.au/general/programs/2242/)
 
