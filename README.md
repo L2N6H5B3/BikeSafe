@@ -1,4 +1,4 @@
-# BikeSafe
+# BikeSafe - Team Luke and Josh
 
 BIKE SAFE - helping kids find a safe bike path to school.
 
