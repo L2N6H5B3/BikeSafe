@@ -10,7 +10,7 @@ There are plenty of great reasons for kids to ride their bikes to school. The na
 
 (Source: Ride2School Program https://www.bicyclenetwork.com.au/general/programs/2242/)
 
-A lot of parents are afraid to let their kids ride to school, because sometimes our roads can be unsafe. For Gov Hack 2015 we wanted to help make riding to school BIKE SAFE.  
+A lot of parents are afraid to let their kids ride to school, because sometimes our roads can be unsafe. For GovHack 2015 we wanted to help make riding to school BIKE SAFE.  
 
 BIKE SAFE helps eliminate some of the risks of cycling to school. Simply put a pin on your home address on the BIKE SAFE map and then pin where you go to school. BIKE SAFE will show you the dangers that exist between your place and school to help you find a safer way to go. It's kind of like the Waze traffic phone app, but for bike safety.
 
