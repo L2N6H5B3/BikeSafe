@@ -1,0 +1,3035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>SchoolCrossings.kmz</name>
+	<Schema name="SCSITE" id="SCSITE">
+		<SimpleField type="string" name="SITE_TYPE"></SimpleField>
+		<SimpleField type="string" name="SITE_NO"></SimpleField>
+		<SimpleField type="string" name="SITE_DESC"></SimpleField>
+		<SimpleField type="string" name="ROAD_NO"></SimpleField>
+		<SimpleField type="float" name="RRD_UL"></SimpleField>
+		<SimpleField type="float" name="RRD_R"></SimpleField>
+		<SimpleField type="string" name="SUBURB"></SimpleField>
+		<SimpleField type="string" name="SCHOOL_NAME"></SimpleField>
+		<SimpleField type="string" name="RESP"></SimpleField>
+	</Schema>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/hiker.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>SCSITE</name>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">374</SimpleData>
+					<SimpleData name="SITE_DESC">Riddoch Hwy/115m S of Bryan St, Allendale East, Allendale East Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.7093908840701,-38.00295794443938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">344</SimpleData>
+					<SimpleData name="SITE_DESC">Blythewood Rd/31m W of Braemar Rd, Torrens Park, Scotch College</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6143877975903,-34.98361997435989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">251</SimpleData>
+					<SimpleData name="SITE_DESC">Shipsters Road /S of Regent Street, Kensington, Marryatville Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6500959535484,-34.92492062343347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">027</SimpleData>
+					<SimpleData name="SITE_DESC">The Parade /W of Yeronga Avenue, Kensington Park, Pembroke College</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6553449475144,-34.92025522219177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">010</SimpleData>
+					<SimpleData name="SITE_DESC">Magill Rd/136m E of Penfold Rd, Magill, Magill Junior &amp; Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6775292859146,-34.91294579556204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">342</SimpleData>
+					<SimpleData name="SITE_DESC">Moules Road /E of Davenport Terrace, Rostrevor, Norwood Morialta High</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.678168532514,-34.90257798885725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">346</SimpleData>
+					<SimpleData name="SITE_DESC">Glen Stuart Rd/32m N of Moules Rd, Woodforde, Rostrevor College</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6842657867658,-34.90197467516042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">317</SimpleData>
+					<SimpleData name="SITE_DESC">Blanche Terrace /SW of Robert Street, Moonta, Moonta Area</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5913561517803,-34.07006416958968,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">219</SimpleData>
+					<SimpleData name="SITE_DESC">Williams Road /W of North Terrace, Millicent, Millicent North Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.3449448560054,-37.59635826983123,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">336</SimpleData>
+					<SimpleData name="SITE_DESC">Doswell Tce/23m E of Draper St, Kadina, Kadina Primary School</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.7111945705468,-33.96163545006846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">006</SimpleData>
+					<SimpleData name="SITE_DESC">Blacks Road /near Grand Junction Road, Gilles Plains, St Pauls College</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6533127938494,-34.84692752634908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">152</SimpleData>
+					<SimpleData name="SITE_DESC">Williamson Road /E of Wilkinson Road, Para Hills, Para Hills Primary/Infant</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6512116627222,-34.81292506348566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">088</SimpleData>
+					<SimpleData name="SITE_DESC">Williams Road /N of Clinton Street, Millicent, St Anthony&apos;s Convent of Mercy</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.3588062983913,-37.60026619976008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">245</SimpleData>
+					<SimpleData name="SITE_DESC">Market Street /N of Mount Pleasant Road, Burra, Burra Community</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.937425205683,-33.68032855633243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">015</SimpleData>
+					<SimpleData name="SITE_DESC">Bevereux Road /S of Glenroy Avenue, Beaumont, Linden Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6520722318795,-34.94728440572316,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">345</SimpleData>
+					<SimpleData name="SITE_DESC">Hart Rd/38m E of Freer St, Semaphore South, Le Fevre High School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4854906872077,-34.84500007836163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">150</SimpleData>
+					<SimpleData name="SITE_DESC">South Terrace /E of Scott Street, Pooraka, Pooraka Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6133155159143,-34.83294391720214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">155</SimpleData>
+					<SimpleData name="SITE_DESC">Elizabeth Street /S of St Helens Street, Banksia Park, Banksia Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7242353267287,-34.80866127533661,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">066</SimpleData>
+					<SimpleData name="SITE_DESC">Military Road /S of Marlborough Street, Henley Beach, Star of the Sea Convent</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4941335814071,-34.91445866522505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">087</SimpleData>
+					<SimpleData name="SITE_DESC">Thomas Street /E of Marion Road, South Plympton, Forbes Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5575621191533,-34.97716229927654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">169</SimpleData>
+					<SimpleData name="SITE_DESC">Hawkers Road /S of Briar Avenue, Medindie, Wilderness Girls</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6079749391008,-34.89819526465108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">126</SimpleData>
+					<SimpleData name="SITE_DESC">Fletcher Road /S of Hughes Street, Birkenhead, Le Fevre Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4980080022775,-34.83837392194702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">181</SimpleData>
+					<SimpleData name="SITE_DESC">Marion Road /N of Jenkins Street, Cowandilla, Cowandilla Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5526188732628,-34.93406769884255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">192</SimpleData>
+					<SimpleData name="SITE_DESC">Addison Road /S of Queen Street, Pennington, Pennington Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5293193211037,-34.86147055495682,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">242</SimpleData>
+					<SimpleData name="SITE_DESC">Whites Road /N of Crane Street, Salisbury North, Salisbury North-West Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6222512287651,-34.74836060794071,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">363</SimpleData>
+					<SimpleData name="SITE_DESC">Anzac Rd/30m S of Swan St, Risdon Park-Pt Pirie, Airdale Primary School</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.991275425688,-33.20077682966197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">331</SimpleData>
+					<SimpleData name="SITE_DESC">Kingston Road /E of Murdoch Street, Port Pirie, Risdon Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0087723072485,-33.20397603289919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">123</SimpleData>
+					<SimpleData name="SITE_DESC">Main Street /W of Chinner Street, Peterborough, Peterborough Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.8328941926859,-32.97376780568029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">313</SimpleData>
+					<SimpleData name="SITE_DESC">Gilles Road /E of Bagot Street, Glen Osmond, Seymour Senior College</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6500290992396,-34.95720527734678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">257</SimpleData>
+					<SimpleData name="SITE_DESC">Whites Road /25m S of Opel Avenue, Paralowie, Paralowie Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6180911594557,-34.75304614581022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">290</SimpleData>
+					<SimpleData name="SITE_DESC">Adams Road /S of Parri Road, Sheidow Park, Sheidow Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5308781234247,-35.07129383728524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">284</SimpleData>
+					<SimpleData name="SITE_DESC">Glynville Drive /W of Helsinki Road, Hackham West, Hackham West Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5174394606147,-35.1431122347483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">137</SimpleData>
+					<SimpleData name="SITE_DESC">Elizabeth Terrace /E of Paringa Road, Port Augusta, Willsden Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.7792633920533,-32.50593131524114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">271</SimpleData>
+					<SimpleData name="SITE_DESC">Para Road /N of Farrow Road, Evanston, Evanston Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7335332794155,-34.61573254242029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">058</SimpleData>
+					<SimpleData name="SITE_DESC">John Rice Service Road /E of Wincklebury Road, Elizabeth Vale, Elizabeth Vale Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.669758362102,-34.74818833057327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">343</SimpleData>
+					<SimpleData name="SITE_DESC">Gwy Tce/260m N of Wallace St, Balaklava, Balaklava Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4156570736029,-34.152255202726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">360</SimpleData>
+					<SimpleData name="SITE_DESC">Goode Rd/13m E of Eighth St, Port Pirie West, Port Pirie West Primary School</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0026938909233,-33.18128084760699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">309</SimpleData>
+					<SimpleData name="SITE_DESC">The Terrace /S of Goode Road, Port Pirie, Port Pirie West Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0038898563459,-33.18218532269157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">297</SimpleData>
+					<SimpleData name="SITE_DESC">Black Oak Dr/55m W of Belah Ave, Leigh Creek, Leigh Creek Area School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4023684120315,-30.59227097568092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">312</SimpleData>
+					<SimpleData name="SITE_DESC">Gilles Road /W of Pridmore Street, Glen Osmond, Seymour Junior College</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6456479786221,-34.95745177175076,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">304</SimpleData>
+					<SimpleData name="SITE_DESC">Fisher Street /E of Beaconfield Street, Fullarton, Glen Osmond Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6369323417622,-34.95631269534312,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">005</SimpleData>
+					<SimpleData name="SITE_DESC">Hay Street /60m W of Burnell Street, Linden Park, Linden Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6468695994968,-34.94717982344746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">145</SimpleData>
+					<SimpleData name="SITE_DESC">Brown Terace /N of Orange Avenue, Salisbury, Salisbury Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6460381542993,-34.76694985312987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">328</SimpleData>
+					<SimpleData name="SITE_DESC">Belalie Road /S of Glenora Drive, Ingle Farm, Ingle Farm Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6409297350961,-34.8278321400476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">008</SimpleData>
+					<SimpleData name="SITE_DESC">Murray Street /W of Middle Street, Angaston, Angaston Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.0497747921034,-34.50049934338141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">034</SimpleData>
+					<SimpleData name="SITE_DESC">Main North Road /S of Powell Street, Clare, Clare Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6165473026931,-33.84086258853602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">281</SimpleData>
+					<SimpleData name="SITE_DESC">Martins Road /SW of Universal Road, Salisbury Downs, Salisbury Downs Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6198074437274,-34.76884797659287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">055</SimpleData>
+					<SimpleData name="SITE_DESC">Wandana Avenue /N of Kopoola Crescent, Gilles Plains, Wandana Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6606131307752,-34.84909966348293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">276</SimpleData>
+					<SimpleData name="SITE_DESC">Stewart Avenue /N of Field Av, Naracoorte, Naracoorte High</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.7290768349008,-36.94985807029889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">333</SimpleData>
+					<SimpleData name="SITE_DESC">Finch Road /60m W of Hurst Road, Gawler East, Gawler East Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7619233490991,-34.59758197512529,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">292</SimpleData>
+					<SimpleData name="SITE_DESC">Fairford Terrace /N of Teal Grove, Semaphore Park, Semaphore Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4883212526876,-34.85488964622898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">364</SimpleData>
+					<SimpleData name="SITE_DESC">Main Nth Rd/Second St, Gladstone, Gladstone High School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3536206234686,-33.27263843145772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">325</SimpleData>
+					<SimpleData name="SITE_DESC">Keithcot Farm Drive /NW of OLeary Place, Wynn Vale, Keithcot Farm Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6759231077253,-34.79971107398407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">283</SimpleData>
+					<SimpleData name="SITE_DESC">Sunnymeade Drive /W of Campus Drive, Aberfoyle Park, Aberfoyle Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5957289130245,-35.06572412261943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">356</SimpleData>
+					<SimpleData name="SITE_DESC">Pt Wakefield-Yorketown Rd/45n W of School Rd, Yorketown, Yorketown Area School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.6133705121589,-35.01771501295863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">067</SimpleData>
+					<SimpleData name="SITE_DESC">Seaview Road /S of Marlborough Street, Henley Beach, Star of the Sea Convent</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4929380736557,-34.91458195909078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">279</SimpleData>
+					<SimpleData name="SITE_DESC">East Terrace /N of Rowe Street, Strathalbyn, Strathalbyn Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.8973178707331,-35.25632979896872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">339</SimpleData>
+					<SimpleData name="SITE_DESC">The Parkway/100m S of Field Ave, Victor Harbor, Victor Harbor Primary School</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6246251129363,-35.54309916880016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">026</SimpleData>
+					<SimpleData name="SITE_DESC">The Parade /W of Primrose Terrace, Rosslyn Park, Norwood Morialta High</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6714619946346,-34.91944440171542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">073</SimpleData>
+					<SimpleData name="SITE_DESC">Adelaide Street /E of Walker Avenue, Mannum, Mannum Primary and High</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3032599242688,-34.91513435205484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">063</SimpleData>
+					<SimpleData name="SITE_DESC">Barossa Valley Way /E of Daly Street, Gawler East, Immanuel Lutheran</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7522806170762,-34.59593788263582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">268</SimpleData>
+					<SimpleData name="SITE_DESC">Shepherdson Road /E of White Avenue, Mount Gambier, Tennyson College</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.7553183073991,-37.82744421225009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">125</SimpleData>
+					<SimpleData name="SITE_DESC">Carlisle Street /N of Pelham Street, Ethelton, Ethelton Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4897073242435,-34.85011919337521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">286</SimpleData>
+					<SimpleData name="SITE_DESC">Frogmore Road /N of Alfrina Street, Kidman Park, Kidman Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5277009713751,-34.91283688475141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">299</SimpleData>
+					<SimpleData name="SITE_DESC">Gledsdale Road /E of Sandison Road, Hallett Cove, Hallett Cove Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.511033731444,-35.07756210294183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">316</SimpleData>
+					<SimpleData name="SITE_DESC">Kohinoor Road /W of Centenary Avenue, Kingscote, Kingscote Area</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.6339324030959,-35.65295580601067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">302</SimpleData>
+					<SimpleData name="SITE_DESC">Eyre Avenue /near Dowd Street, Whyalla, Long Street Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5317706849964,-33.03859742837619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">311</SimpleData>
+					<SimpleData name="SITE_DESC">Halba Crescent /SW of Otoma Street, Paralowie, Paralowie Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6233679195516,-34.75329538179994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">287</SimpleData>
+					<SimpleData name="SITE_DESC">Barretts Road /W of Mortlock Street, Clapham, Clapham Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6040358449269,-34.99406434214424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">310</SimpleData>
+					<SimpleData name="SITE_DESC">Andrew Smith Drive /W of Buckland Street, Parafield Gardens, The Pines Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6070733512609,-34.7723672964384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">308</SimpleData>
+					<SimpleData name="SITE_DESC">Melsetter road /N of Melfort Road, Hackham West, Hackham South Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5163056042523,-35.15306709612769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">282</SimpleData>
+					<SimpleData name="SITE_DESC">Wilkinson Road /NE of Warrigal Street, Para Hills, Para Hills Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6511876584962,-34.81164400267034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">315</SimpleData>
+					<SimpleData name="SITE_DESC">Milne Road /E of Elizabeth Street, Banksia Park, St Davids Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7255865515226,-34.81566344009126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">262</SimpleData>
+					<SimpleData name="SITE_DESC">Highfield Avenue /W of Durham Street, Linden Park, Linden Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6454883201346,-34.94874531874324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">136</SimpleData>
+					<SimpleData name="SITE_DESC">Carlton Parade /N of Rupert Street, Port Augusta, Carlton Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.7779970243355,-32.48950254252365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">303</SimpleData>
+					<SimpleData name="SITE_DESC">Yorktown Road /NE of Ifould Road, Elizabeth Park, St Thomas Mores Parish</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6810022548015,-34.71526002057023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">127</SimpleData>
+					<SimpleData name="SITE_DESC">Fletcher Road /S of Mooltan Avenue, Largs Bay, Largs Bay Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4947969871337,-34.82337027716169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">352</SimpleData>
+					<SimpleData name="SITE_DESC">Main St / 50m East of Oval Rd, Warooka, Warooka Area School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.3992691700246,-34.99014538948319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">273</SimpleData>
+					<SimpleData name="SITE_DESC">Ridge Terrace /E of Second Street, Millicent, Millicent North Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.3451539538065,-37.59488580754668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">384</SimpleData>
+					<SimpleData name="SITE_DESC">Wells Rd - 200m West of Fleming Ave, Streaky Bay, Streaky Bay Area School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>134.2016468713729,-32.79738544898089,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">386</SimpleData>
+					<SimpleData name="SITE_DESC">Brunel Dr/Roebling St, Modbury Heights, The Heights School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6841111407443,-34.81021783876162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">285</SimpleData>
+					<SimpleData name="SITE_DESC">George Street /E of Angelina Drive, Paradise, Paradise Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6849554128522,-34.86918789597396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">261</SimpleData>
+					<SimpleData name="SITE_DESC">Wehl Street /N of Fartch Street, Mount Gambier, North Gambier Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.7788632674535,-37.81770325172811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">108</SimpleData>
+					<SimpleData name="SITE_DESC">Wehl Street /N of Shepherdson Road, Mount Gambier, Reidy Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.7719002644342,-37.83144655120292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">093</SimpleData>
+					<SimpleData name="SITE_DESC">Edward Street /W of Maria Street, Melrose Park, Edwardstown Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5786911302772,-34.97789081156759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">235</SimpleData>
+					<SimpleData name="SITE_DESC">Milne Road /W of Redwood Avenue, Redwood Park, Ridgehaven Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7106306238555,-34.81637979868297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">341</SimpleData>
+					<SimpleData name="SITE_DESC">Onkaparinga Valley Rd/130m S of Sandow Rd, Verdun, The Hills Christian Cmnty PS</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7865320759555,-35.01012443605047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">387</SimpleData>
+					<SimpleData name="SITE_DESC">80m N of Gardiner, Goolwa, Goolwa Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7797849465778,-35.49831597137886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">269</SimpleData>
+					<SimpleData name="SITE_DESC">Strathalbyn Road /S of Fairview Road, Aldgate, Aldgate Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7502700546168,-35.01847694882476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">370</SimpleData>
+					<SimpleData name="SITE_DESC">Mt Burr Rd / East of Princes Hwy, Millicent, Millicent High School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.3569863955739,-37.59033698519819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">394</SimpleData>
+					<SimpleData name="SITE_DESC">Marmion Rd / 57m West of Easmon Lane, Blair Athol, Gepps Cross Primary School</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5992199297701,-34.85238303845748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">390</SimpleData>
+					<SimpleData name="SITE_DESC">Garned Tce / 15m South of Station Lane, Mawson Lakes, Mawson Lakes Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6149183541347,-34.80881859067208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">216</SimpleData>
+					<SimpleData name="SITE_DESC">Acre Avenue /S of Lawrence Street, Morphett Vale, Stanvac Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5169947183655,-35.1095802231687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">318</SimpleData>
+					<SimpleData name="SITE_DESC">Education Road /N of Devon Crescent, Happy Valley, Happy Valley Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5845528520167,-35.08702412481302,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">296</SimpleData>
+					<SimpleData name="SITE_DESC">Quinliven Road /W of Holden Street, Aldinga, Aldinga Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4614241480022,-35.26843517625113,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">338</SimpleData>
+					<SimpleData name="SITE_DESC">Koonga Ave/58m E of Bonvue Rd, Rostrevor, Stradbroke Primary School</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6846312816866,-34.89432291490391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">322</SimpleData>
+					<SimpleData name="SITE_DESC">Sunnybrook Drive /NE of Medlands Close, Wynn Vale, Sunnybrook Campus Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6885552391721,-34.8002697586182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">303</SimpleData>
+					<SimpleData name="SITE_DESC">Yorktown Road /NE of Ifould Road, Elizabeth Park, St Thomas Mores Parish</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6811890573871,-34.71534008257088,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">206</SimpleData>
+					<SimpleData name="SITE_DESC">Torrens Road /NW of Pennington Terrace, Pennington, Mount Carmel Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5243696120085,-34.86061669863658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">305</SimpleData>
+					<SimpleData name="SITE_DESC">Murrays Hill Road /SE of Lyric Place, Flagstaff Hill, Craigburn Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6166689846927,-35.05625565655012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">241</SimpleData>
+					<SimpleData name="SITE_DESC">Norrie Avenue /N of St John Crescent, Whyalla, Nicholson Avenue Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5513664229105,-33.02927064944409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">241</SimpleData>
+					<SimpleData name="SITE_DESC">Norrie Avenue /N of St John Crescent, Whyalla, Nicholson Avenue Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5511243646052,-33.02932271657947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">347</SimpleData>
+					<SimpleData name="SITE_DESC">Main Nth Rd/100m N of St Vincents Rd, Watervale, Watervale Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6451154942092,-33.95972817046813,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">359</SimpleData>
+					<SimpleData name="SITE_DESC">Thiele Hwy/240 m W of Reserve Rd, Eudunda, Eudunda Area School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.0882296982558,-34.17825991840434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">349</SimpleData>
+					<SimpleData name="SITE_DESC">Coalville Tce/240m S of South Tce, Bordertown, Bordertown High School</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.7713276381169,-36.31483970607304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">002</SimpleData>
+					<SimpleData name="SITE_DESC">George Main Road /E of Oval Park Drive, Victor Harbor, Glendale Christian</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6108035138861,-35.5567118317041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">215</SimpleData>
+					<SimpleData name="SITE_DESC">Galloway Road /NW of Roopena Street, O&apos;Sullivan Beach, O&apos;Sullivan Beach Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.479857399625,-35.12482269965504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">298</SimpleData>
+					<SimpleData name="SITE_DESC">Highgate Street /N of Church Street, Highgate, Highgate Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6217527834874,-34.96343697661237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">277</SimpleData>
+					<SimpleData name="SITE_DESC">Bradford Street /S of Lockhart Street, Whyalla, Memorial Oval Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5676468228453,-33.03403204297015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">314</SimpleData>
+					<SimpleData name="SITE_DESC">Wattle Street /E of Unley Road, Malvern, Unley Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6097165543724,-34.95465954535722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">392</SimpleData>
+					<SimpleData name="SITE_DESC">Davoren Rd-100m West of Peachey Rd, Davoren Park, Smithfield Plains Super School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6720505502344,-34.68071858690018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">222</SimpleData>
+					<SimpleData name="SITE_DESC">Jenkins Avenue /W of Henshelwood Street, Whyalla, Hincks Avenue Primary/Infant</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5450653338211,-33.01636625695623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">222</SimpleData>
+					<SimpleData name="SITE_DESC">Jenkins Avenue /W of Henshelwood Street, Whyalla, Hincks Avenue Primary/Infant</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5449920620557,-33.01651214992074,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">388</SimpleData>
+					<SimpleData name="SITE_DESC">Albert St/Wellbourne St, Mitcham, Scotch Junior College</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6217026404937,-34.97914721116231,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">190</SimpleData>
+					<SimpleData name="SITE_DESC">Nicholson Avenue /E of Stead Street, Whyalla, Nicholson Avenue Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5498053352553,-33.02817798357533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">190</SimpleData>
+					<SimpleData name="SITE_DESC">Nicholson Avenue /E of Stead Street, Whyalla, Nicholson Avenue Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5497989778793,-33.02806907201427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">361</SimpleData>
+					<SimpleData name="SITE_DESC">Port Rd/30 W of King William St, Auburn, Auburn Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6813977364357,-34.02804322355438,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">378</SimpleData>
+					<SimpleData name="SITE_DESC">Strathalbyn Rd/60m S of Stock Rd, Mylor, Mylor Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7606614941812,-35.04089278398993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">399</SimpleData>
+					<SimpleData name="SITE_DESC">Lynton Tce - Approx. 130m East of Grand Bvd, Seaford,</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4823568702153,-35.18835086210701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">307</SimpleData>
+					<SimpleData name="SITE_DESC">May Crescent /W of Bayview Crescent, Ceduna, Ceduna Area</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>133.6716083480079,-32.13669569355075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">248</SimpleData>
+					<SimpleData name="SITE_DESC">Redward Avenue /W of Manoora Street, Greenacres, Northfield High</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6221872889825,-34.86612209324185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">254</SimpleData>
+					<SimpleData name="SITE_DESC">Parsons Road /N of Tristania Terrace, Dernancourt, Dernancourt Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.671127053057,-34.86152067918348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">253</SimpleData>
+					<SimpleData name="SITE_DESC">Fourth Avenue /W of Clarence Avenue, Klemzig, Klemzig Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6384076475197,-34.87807998143266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">335</SimpleData>
+					<SimpleData name="SITE_DESC">Windsor Grove /near Hillburn Avenue, Windsor Gardens, St Pius X Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.642633284526,-34.8689546950118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">038</SimpleData>
+					<SimpleData name="SITE_DESC">Fosters Road /S of Princes Road, Greenacres, Hillcrest Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6368278639075,-34.86668831382777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">004</SimpleData>
+					<SimpleData name="SITE_DESC">James Street /E of Sycamore Terrace, Campbelltown, East Marden Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6524656642404,-34.88286254850546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">324</SimpleData>
+					<SimpleData name="SITE_DESC">Shepherds Lane /S of Mines Road, Campbelltown, East Marden Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6548094863803,-34.88211779056795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">358</SimpleData>
+					<SimpleData name="SITE_DESC">Silver St/30m N of South Tce, Peterborough, St Josephs Catholic School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.840708197208,-32.97621174428614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">357</SimpleData>
+					<SimpleData name="SITE_DESC">Wildman St/73 m S of Hughes St, Wallaroo, Wallaroo Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.6235332700736,-33.93251026121226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">107</SimpleData>
+					<SimpleData name="SITE_DESC">O&apos;Halloran Terrace /E of Howland Street, Mount Gambier, Reidy Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.7725854457671,-37.83485204402282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">104</SimpleData>
+					<SimpleData name="SITE_DESC">Boandik Terrace /E of Bray Street, Mount Gambier, East Gambier Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.79340298958,-37.84043049669463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">295</SimpleData>
+					<SimpleData name="SITE_DESC">East Terrace /N of MacDonnell Street, Kingston S.E., Kingston Area</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.8561376012445,-36.83527221408534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">238</SimpleData>
+					<SimpleData name="SITE_DESC">Whites Road /N of Crane Street, Bordertown, Bordertown High</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.7687115760517,-36.31265409266804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">351</SimpleData>
+					<SimpleData name="SITE_DESC">Harvey St/60m N of South Tce, Port Broughton, Port Broughton Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.93123736251,-33.60276178474036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">327</SimpleData>
+					<SimpleData name="SITE_DESC">Condcord Drive /W of Burgoyne Drive, Old Reynella, Reynella Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.537636124508,-35.09989087214368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">354</SimpleData>
+					<SimpleData name="SITE_DESC">Quorn Rd / west of Oval Rd, Stirling North, Stirling North Kindergarden</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.8385930826412,-32.51775227046279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">376</SimpleData>
+					<SimpleData name="SITE_DESC">Miller St /22M North of William St, Springton, Springton Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.0893822392288,-34.7071785837428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">085</SimpleData>
+					<SimpleData name="SITE_DESC">South Road /N of Christina Street, Edwardstown, St Anthonys</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5731767322891,-34.96837993387842,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">085</SimpleData>
+					<SimpleData name="SITE_DESC">South Road /N of Christina Street, Edwardstown, St Anthony&apos;s</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5728798774154,-34.96855403087579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">074</SimpleData>
+					<SimpleData name="SITE_DESC">Celtic Avenue /W of Renown Avenue, Clovelly Park, Mitchell Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5667033865829,-35.00016235899496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">377</SimpleData>
+					<SimpleData name="SITE_DESC">Kapunda-Morgan Rd/3om E of Eleventh St, Morgan, Morgan Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.6703735141352,-34.0309808138202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">306</SimpleData>
+					<SimpleData name="SITE_DESC">May Terrace /N of Lipsett Terrace, Brooklyn Park, Lockleys Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5344459049674,-34.93032207379142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">225</SimpleData>
+					<SimpleData name="SITE_DESC">Hamblynn Road /NW of Campbell Road, Elizabeth Downs, Elizabeth Downs Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.69120459268,-34.69916588509929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">381</SimpleData>
+					<SimpleData name="SITE_DESC">West Tce/10m S of Stokes Rd, Quorn, Quorn Area School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0370129768544,-32.34725433406223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">395</SimpleData>
+					<SimpleData name="SITE_DESC">Douglas Drive / Roberts st, Munno Para West, Mark Oliphant</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6857231041977,-34.66587549184354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">092</SimpleData>
+					<SimpleData name="SITE_DESC">Daws road /W of Francis Street, Daw Park, Daws Road High</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.590650037017,-34.99207225394763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">367</SimpleData>
+					<SimpleData name="SITE_DESC">Mt Burr Rd/80m W of Brown St, Mt Burr, Mt Burr Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.4591197773005,-37.54201074766124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">371</SimpleData>
+					<SimpleData name="SITE_DESC">Ridge Tce/54m W of George St, Millicent, Millicent Nth Kindergarten</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.3483173904867,-37.59343575133265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">369</SimpleData>
+					<SimpleData name="SITE_DESC">Riddoch Hwy RN8000 near Alexander St, Tarpeena, Tarpeena Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.79606843925,-37.62701026317775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">372</SimpleData>
+					<SimpleData name="SITE_DESC">Flinders Hwy/450m W of Beach Tce, Elliston, Elliston Area School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>134.8912999052916,-33.64463282193152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">368</SimpleData>
+					<SimpleData name="SITE_DESC">Riddoch St/E of Scott St, Penola, Penola Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.8337630244472,-37.38061456892331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">355</SimpleData>
+					<SimpleData name="SITE_DESC">McLaren Vale - Willunga, McLaren Vale, McLaren Vale Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5328264952964,-35.21160784234796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">353</SimpleData>
+					<SimpleData name="SITE_DESC">Main Rd/300m N Station Rd, Willunga, Willunga High School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5538274459108,-35.26619632418011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">365</SimpleData>
+					<SimpleData name="SITE_DESC">Kangarilla Rd RN4621 / Rose Cres, McLaren Flat, McLaren Flat Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5872758795661,-35.20669750020304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">246</SimpleData>
+					<SimpleData name="SITE_DESC">East Parade /S of Eynesbury Avenue, Kingswood, Mitcham Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.613741787913,-34.97259336263339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">065</SimpleData>
+					<SimpleData name="SITE_DESC">Shannon Street /E of primary school gate, Birdwood, Birdwood Primary/Infant</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9586203105926,-34.81961046490758,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">301</SimpleData>
+					<SimpleData name="SITE_DESC">Balhannah Road /W of Church Street, Hahndorf, St Michaels Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.8116354101106,-35.02800685009617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">243</SimpleData>
+					<SimpleData name="SITE_DESC">Ridley Grove /E of Albion Street, Woodville Gardens, Ridley Grove Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5504312137196,-34.86414675767608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">001</SimpleData>
+					<SimpleData name="SITE_DESC">Main Road at Primary School, Coromandel Valley, Coromandel Valley Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6251032870523,-35.03261712491625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">350</SimpleData>
+					<SimpleData name="SITE_DESC">Upper Sturt Rd/20m W of Fernwood Way/eastern access, Upper Sturt, Upper Sturt Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6853757201916,-35.01929426579238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">337</SimpleData>
+					<SimpleData name="SITE_DESC">Golden Grove Rd/64m W of Laburnum Dr, Greenwith, Greenwith Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.720441094644,-34.76913908820314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">229</SimpleData>
+					<SimpleData name="SITE_DESC">Mead Street /S of Shorney Street, Birkenhead, Le Fevre Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4940360795354,-34.84011893090011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">244</SimpleData>
+					<SimpleData name="SITE_DESC">Goodman Road /N of Chivell Street, Elizabeth South, Elizabeth South Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6603102321912,-34.73053906004596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">226</SimpleData>
+					<SimpleData name="SITE_DESC">Collins Parade /S of Paramount Avenue, Hackham, Hackham East Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.53305910844,-35.13988206132075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">249</SimpleData>
+					<SimpleData name="SITE_DESC">Stradbroke Road /N of Whites Lane, Newton, Thorndon Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6917661997354,-34.88396629697958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">189</SimpleData>
+					<SimpleData name="SITE_DESC">Darling Terrace /S of Donaldson Terrace, Whyalla, St Theresa&apos;s &amp; Whyalla Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5843988990373,-33.03636472156198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">263</SimpleData>
+					<SimpleData name="SITE_DESC">Marlborough Street /E of Northey Street, Henley Beach, Fulham Gardens Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5033245637289,-34.91343587580256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">264</SimpleData>
+					<SimpleData name="SITE_DESC">Mitton Avenue /S of Buckingham Street, Henley Beach, Fulham Gardens Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5044570136056,-34.91239313877155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">270</SimpleData>
+					<SimpleData name="SITE_DESC">Kauri Parade /S of Pine Avenue, Seacliff, Seacliff Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5217762529746,-35.03653651787175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">375</SimpleData>
+					<SimpleData name="SITE_DESC">Hughes St/40m W of Stirling St, Wallaroo, Wallaroo Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.6248620244844,-33.93231671036821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">240</SimpleData>
+					<SimpleData name="SITE_DESC">Elizabeth Road /SE of Peregrine Crescent, Christie Downs, Christie Downs Primary &amp; Speci</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4922635790299,-35.13285860269552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">158</SimpleData>
+					<SimpleData name="SITE_DESC">Hancock Road /N of Jane Street, Surrey Downs, Surrey Downs Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.716966414915,-34.7976958477774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">255</SimpleData>
+					<SimpleData name="SITE_DESC">North Terrace /NW of Livingstone Street, Mount Gambier, McDonald Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.7936449721079,-37.82682680079184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">234</SimpleData>
+					<SimpleData name="SITE_DESC">Brownes Road /E of Thurston Street, Mount Gambier, Mount Gambier High</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.7675767050196,-37.82560709015561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">057</SimpleData>
+					<SimpleData name="SITE_DESC">Fairfield Road /SE of Murphy Street, Elizabeth Grove, St Mary Magdalene</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6659469738314,-34.73453674897207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">056</SimpleData>
+					<SimpleData name="SITE_DESC">Fairfield Road /SW of Burgate Street, Elizabeth Grove, Elizabeth Grove Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.669669208815,-34.73535912998086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">256</SimpleData>
+					<SimpleData name="SITE_DESC">Diment Road /E of Mannara Drive, Salisbury North, Direk Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6223770591408,-34.73749599692852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">230</SimpleData>
+					<SimpleData name="SITE_DESC">Dudley Street /E of Richard Street, Mansfield Park, St Patrick&apos;s Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5516769378384,-34.85402036739417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">239</SimpleData>
+					<SimpleData name="SITE_DESC">Cottenham Road /E of Linton Street, Banksia Park, Banksia Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7265572821582,-34.80819282566161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">265</SimpleData>
+					<SimpleData name="SITE_DESC">Malbeck Drive /N of Stoneyhill Street, Reynella East, Reynella East Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5546277441212,-35.09098000489902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">250</SimpleData>
+					<SimpleData name="SITE_DESC">Grant Avenue /E of Gurney Road, Rose Park, Rose Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6291058165852,-34.93214463294093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">247</SimpleData>
+					<SimpleData name="SITE_DESC">Jenkins Avenue /W of Pattinson Close, Whyalla, Fisk Street Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5338225381125,-33.01506727675356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">332</SimpleData>
+					<SimpleData name="SITE_DESC">Kensington Way /40m NE of Bond Crescent, Burton, Burton Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.598282095053,-34.74195877494833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">293</SimpleData>
+					<SimpleData name="SITE_DESC">Goddard Drive /NW of Carlingford Drive, Salisbury Park, Salisbury Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6691694704134,-34.76071786722145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">247</SimpleData>
+					<SimpleData name="SITE_DESC">Jenkins Avenue /W of Pattinson Close, Whyalla, Fisk Street Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5338096228043,-33.01491171269605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">274</SimpleData>
+					<SimpleData name="SITE_DESC">Renown Avenue /N of Australian Avenue, Clovelly Park, Mitchell Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5669680868155,-34.99904024157984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">383</SimpleData>
+					<SimpleData name="SITE_DESC">Conyngham St/40m N of Avenue Rd, Glenunga, Glenunga Intnl High School</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6344019312407,-34.94988557981604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">228</SimpleData>
+					<SimpleData name="SITE_DESC">Piccadilly Road /E of Violet Avenue, Crafers, Crafers Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7132036173494,-34.9939069556704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">220</SimpleData>
+					<SimpleData name="SITE_DESC">Adelaide Place /S of Lincoln Place, Port Lincoln, Port Lincoln Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>135.8564382747696,-34.72327555064441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">362</SimpleData>
+					<SimpleData name="SITE_DESC">Adelaide-Mannum Rd/200m W of Victoria St, Gumeracha, Gumeracha Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.8809500480711,-34.82545350815778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">334</SimpleData>
+					<SimpleData name="SITE_DESC">Botany Drive /N of Bicentennial Drive, Golden Grove, Golden Grove Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7078756967346,-34.78687809554309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">391</SimpleData>
+					<SimpleData name="SITE_DESC">Newton Bvd / Faulding Av, Munno Para West, Mark Oliphant</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6841488298935,-34.66673063151582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">323</SimpleData>
+					<SimpleData name="SITE_DESC">Daphne Road /N of Welby Avenue, Salisbury East, Madison Park Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6607696623388,-34.7836414950178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">320</SimpleData>
+					<SimpleData name="SITE_DESC">Newcastle Street /E of Dundas Street, Rosewater, Mount Carmel College</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.522439184317,-34.85602084667421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">294</SimpleData>
+					<SimpleData name="SITE_DESC">Hub Drive /S of Maralyn Close, Aberfoyle Park, Aberfoyle Hub</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5906483298533,-35.07957642072706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">300</SimpleData>
+					<SimpleData name="SITE_DESC">Sandison Road /N of Gledsdale Road, Hallett Cove, Hallett Cove Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.509679930476,-35.07684141948855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">373</SimpleData>
+					<SimpleData name="SITE_DESC">Eyre Hwy/50 m W of Penong-Point Sinclair Rd, Penong, Penong Primary School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>133.006285447317,-31.92788948606001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">379</SimpleData>
+					<SimpleData name="SITE_DESC">Ramco Rd/450m W of Ramco Pt Rd, Ramco, Ramco School</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.9325208393431,-34.17027206891403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">393</SimpleData>
+					<SimpleData name="SITE_DESC">Bains Rd (Approx 50m West of Emmerson Rd), Morphett Vale, Woodcroft College</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5437664276795,-35.11476607198601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">321</SimpleData>
+					<SimpleData name="SITE_DESC">Wright Road /W of Faulkner Street, Modbury, Modbury West Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6774614707392,-34.83407559385482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">089</SimpleData>
+					<SimpleData name="SITE_DESC">Mount Gambier Road /NW of Bridges Street, Millicent, Millicent South Primary</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.3637204763741,-37.60690605135387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">3210</SimpleData>
+					<SimpleData name="SITE_DESC">East Tce near Wakefield St, Adelaide, Christian Brothers Junior Col</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6137562412956,-34.92754086368189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">398</SimpleData>
+					<SimpleData name="SITE_DESC">Adams Rd - 231m SW of Craigmore Rd</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7119054022845,-34.68836808655389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">402</SimpleData>
+					<SimpleData name="SITE_DESC">Quinliven Rd - 63m East of Bowering Hill Rd</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4710491080913,-35.26793900670446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">397</SimpleData>
+					<SimpleData name="SITE_DESC">Adams Rd - 192m NE of Zurich Rd</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7112907671543,-34.6893307542749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">396</SimpleData>
+					<SimpleData name="SITE_DESC">Mildred St - 108m NW of High St</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9172327605742,-34.33759392997082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">400</SimpleData>
+					<SimpleData name="SITE_DESC">Highgate St - 41m N of Winchester St</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6212012441001,-34.95976010292995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">401</SimpleData>
+					<SimpleData name="SITE_DESC">Dumas St - 136m NE of Apollo St</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.8545352787704,-35.06828129796224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">227</SimpleData>
+					<SimpleData name="SITE_DESC">South Terrace /E of Park Terrace, Bordertown, Bordertown Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.7658770117081,-36.31278217241981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">385</SimpleData>
+					<SimpleData name="SITE_DESC">Lawrie Tce-60m east of Cates St, Waikerie, Waikerie PS</SimpleData>
+					<SimpleData name="RESP">SAG</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.9820010674951,-34.18213941993341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">403</SimpleData>
+					<SimpleData name="SITE_DESC">Bicentennial Dr - Approx. 225m NE of Botany Dr</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.7104061894825,-34.78661756273653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">062</SimpleData>
+					<SimpleData name="SITE_DESC">Woodford Road /S of Broxmore Street, Elizabeth North, Elizabeth North Primary</SimpleData>
+					<SimpleData name="RESP">LGA</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6750044087413,-34.70404727477531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#SCSITE">
+					<SimpleData name="SITE_TYPE">SC</SimpleData>
+					<SimpleData name="SITE_NO">404</SimpleData>
+					<SimpleData name="RESP">OTH</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5568361450842,-35.10695745005582,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

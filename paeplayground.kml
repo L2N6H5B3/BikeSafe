@@ -1,0 +1,9685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>paeplayground.kml</name>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<color>ffffffaa</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/picnic.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle000">
+		<IconStyle>
+			<color>ffffffaa</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/picnic.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="IconStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="FeatureLayer0">
+		<name>Playgrounds1</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>ALMOND TREE FLAT RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ALMOND TREE FLAT RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75910</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-ALTREEFRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>ALMOND TREE FLAT RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>SEMAPHORE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4981765692523,-34.82338947808562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>AUGUSTA ST RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AUGUSTA ST RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75911</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-AUGUSTRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>AUGUSTA ST RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.638075007198,-34.86895927060771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>BARTON ST RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BARTON ST RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75912</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-BARTONRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BARTON ST RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.599347052971,-34.86048386615066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>BAYER AVE RECREATION RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BAYER AVE RECREATION RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75913</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-BAYRECRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BAYER AVE RECREATION RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5773358640997,-34.87711223419291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>BENNETT AVE RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BENNETT AVE RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75914</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-BENNETTRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BENNETT AVE RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6240376570404,-34.88023840415674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>PRESTON BETTY RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>PRESTON BETTY RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75915</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-BETTYRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>PRESTON BETTY RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6068231616148,-34.86367259082551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>PRESTON BETTY RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>PRESTON BETTY RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75915</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-BETTYRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>PRESTON BETTY RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6071349962311,-34.86369016323629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>EASTERN PARADE RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>EASTERN PARADE RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75916</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-EASTNPDRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>EASTERN PARADE RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5365926786003,-34.84816559460158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>EMERALD PARK RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>EMERALD PARK RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75917</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-EMERPKRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>EMERALD PARK RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5332398715875,-34.85068204249569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>ENFIELD COMMUNITY CENTRE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ENFIELD COMMUNITY CENTRE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75918</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-ENFIELDCOM</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>ENFIELD COMMUNITY CENTRE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6088404705322,-34.8722480378111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>ERIC SUTTON RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ERIC SUTTON RESERVE </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75919</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-ESUTTONRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>ERIC SUTTON RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5194308548661,-34.85400185666962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>FERRYDEN PARK RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FERRYDEN PARK RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75920</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-FERRPKRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>FERRYDEN PARK RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5618536785361,-34.86617254657658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>FOTHERINGHAM I. W. MEMORIAL RE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FOTHERINGHAM I. W. MEMORIAL RE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75921</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-FOTHERRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>FOTHERINGHAM I. W. MEMORIAL RE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.490940453359,-34.79384397738044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>FREDERICK ST RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FREDERICK ST RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75922</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-FREDCKRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>FREDERICK ST RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.552420227198,-34.85275437449032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>FULTON RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FULTON RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75923</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-FULTONRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>FULTON RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6552729043102,-34.85006158615966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>GARRAD F. J. RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>GARRAD F. J. RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75924</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-GARRADRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>GARRAD F. J. RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6192539414103,-34.8534336053189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>GEPPS CROSS RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>GEPPS CROSS RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75925</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-GEPPSXRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>GEPPS CROSS RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6076584572068,-34.84550190277393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>GOLDINGHAM RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>GOLDINGHAM RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75926</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-GOLDHAMRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>GOLDINGHAM RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.494065039425,-34.80607583283814,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>GREENACRES RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>GREENACRES RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75927</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-GREENACRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>GREENACRES RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6242429084369,-34.86863522251836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>HANSON RES-SURROUNDS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>HANSON RES-SURROUNDS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75928</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-HANSONSUR</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>HANSON RES-SURROUNDS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5518954953998,-34.8683254867893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>HARTLEY GROVE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>HARTLEY GROVE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75929</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-HARTLEYRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>HARTLEY GROVE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6541089722148,-34.86199930508625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>FORESHORE/ HART-UNION</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FORESHORE/ HART-UNION</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75930</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-HARUNIFORE-S</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>FORESHORE/ HART-UNION</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>SEMAPHORE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4796150676781,-34.83865190636581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>HAWICK RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>HAWICK RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75931</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-HAWICKRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>HAWICK RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6583632159653,-34.84408055539346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>HOTCHKISS CRES PLAYGROUND</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>HOTCHKISS CRES PLAYGROUND</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75932</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-HOTCHPLAY</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>HOTCHKISS CRES PLAYGROUND</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5719615550656,-34.88043796868599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>HUNTER G. E. RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>HUNTER G. E. RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75933</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-HUNTERRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>HUNTER G. E. RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4990833396098,-34.78917946014592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>WATKINS JACK RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>WATKINS JACK RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75934</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-JACKWATRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>WATKINS JACK RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5821804314905,-34.86172078866726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>BAILEY JAMES RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BAILEY JAMES RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75935</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-JAMBAILRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BAILEY JAMES RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5047825156518,-34.85881481848568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>MORTON J. S. RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>MORTON J. S. RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75936</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-JSMORTRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>MORTON J. S. RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.498442114845,-34.78335817641009,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>KENMARE ST RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KENMARE ST RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75937</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-KENMARERES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>KENMARE ST RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.503283961075,-34.80241627402788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>DYER LION KEVIN BOB RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DYER LION KEVIN BOB RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75938</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-KEVDYERES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>DYER LION KEVIN BOB RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6436904468936,-34.86412946598349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>KILPATRICK WAL RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KILPATRICK WAL RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75939</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-KILWALRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>KILPATRICK WAL RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4939905120749,-34.79420606434638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>KIRKBY CIRCUIT RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KIRKBY CIRCUIT RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75940</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-KIRCIRCRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>KIRKBY CIRCUIT RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6235774610001,-34.87064075400538,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>KOOMBANA RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KOOMBANA RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75942</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-KOOMBANRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>KOOMBANA RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4951398536533,-34.80001882743751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>LARGS RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LARGS RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75943</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-LARGSRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>LARGS RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>SEMAPHORE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4897462962174,-34.83240656790606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>CONRAD LEOPOLD RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CONRAD LEOPOLD RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75944</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-LEOCONRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>CONRAD LEOPOLD RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6278675265435,-34.84909929397234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>CONRAD LEOPOLD RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CONRAD LEOPOLD RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75944</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-LEOCONRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>CONRAD LEOPOLD RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6279660625987,-34.84923830141918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>CONRAD LEOPOLD RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CONRAD LEOPOLD RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75944</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-LEOCONRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>CONRAD LEOPOLD RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6278875525098,-34.84932507525488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>LEWIS L. J. PARK</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LEWIS L. J. PARK</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75945</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-LJLEWISPARK</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>LEWIS L. J. PARK</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6230730370943,-34.84456676332063,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>LAURIE KNIGHT RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LAURIE KNIGHT RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75946</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-LKNIGHTRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>LAURIE KNIGHT RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6227737849467,-34.87685530108038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>BELL LOIS RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BELL LOIS RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75947</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-LOISBELRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BELL LOIS RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6526194152718,-34.86695248858596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>MAPLETON RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>MAPLETON RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75948</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-MAPLETNRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>MAPLETON RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5905193187159,-34.86959889861618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>MARINERS PARK</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>MARINERS PARK</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75949</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-MARINRPARK</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>MARINERS PARK</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.482522851151,-34.78249628339086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>MC NICOL RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>MC NICOL RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75950</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-MCNICOLRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>MC NICOL RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5193750073497,-34.84894369818559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>FORESHORE/MOLDAVIA-MARMORA</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FORESHORE/MOLDAVIA-MARMORA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75951</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-MOLMARFORE</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>FORESHORE/MOLDAVIA-MARMORA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4914418861491,-34.8006295284792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>MONTPELIER SQUARE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>MONTPELIER SQUARE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75952</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-MONTSQRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>MONTPELIER SQUARE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5070958721146,-34.85137499822059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>NORTHGATE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>NORTHGATE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75953</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-NTHGATERES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>NORTHGATE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6286538458105,-34.85646399735509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>OAKDALE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OAKDALE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75954</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-OAKDALERES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>OAKDALE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6556425363454,-34.85440035746173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>JOYCE SNADDEN RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>JOYCE SNADDEN RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75955</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-SNADDENRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>JOYCE SNADDEN RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5003742534379,-34.84980205106591,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>OLOUGHLIN STREET</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OLOUGHLIN STREET</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75956</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-OLOGHLNRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>OLOUGHLIN STREET</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6519424046538,-34.84145895741224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>ONE AND ALL DRIVE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ONE AND ALL DRIVE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75957</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-ONEALLRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>ONE AND ALL DRIVE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4872396028766,-34.79255242569653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>THE PARKWAY</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>THE PARKWAY</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75958</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-PARKWYRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>THE PARKWAY</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6283610565502,-34.87501180795768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>PAULS DRIVE RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>PAULS DRIVE RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75959</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-PAULSRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>PAULS DRIVE RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6540167112129,-34.84251061175293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>BIRKENHEAD RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BIRKENHEAD RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75960</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-BIRKENHRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BIRKENHEAD RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>SEMAPHORE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.499089566569,-34.83789026236731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>BLAIR ATHOL RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BLAIR ATHOL RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75961</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-BLAIRATRESN</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BLAIR ATHOL RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5926616973856,-34.85643682908438,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>BRANSON AVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BRANSON AVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75962</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-BRANSONRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BRANSON AVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6131956348685,-34.8651817039138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>BUTLER GROVE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BUTLER GROVE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75963</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-BUTLGRRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BUTLER GROVE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.630315903702,-34.85096336179601,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>BUTLER GROVE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BUTLER GROVE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75963</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-BUTLGRRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BUTLER GROVE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6304169073255,-34.85100099656603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>COLERIDGE CRESCENT RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>COLERIDGE CRESCENT RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75964</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-COLERDGRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>COLERIDGE CRESCENT RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6147271172929,-34.85550791908066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>CONNOLLY R. B. RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CONNOLLY R. B. RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75966</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-CONNELYRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>CONNOLLY R. B. RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.499133498879,-34.78521892403355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>CORNELL AVE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CORNELL AVE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75967</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-CORNELLRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>CORNELL AVE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6508938731159,-34.84326571056515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>DEARING J. B. RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DEARING J. B. RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75968</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-DEARINGRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>DEARING J. B. RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.492173336655,-34.78008028913014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>DELHI RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DELHI RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75969</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-DELHIRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>DELHI RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6463667188212,-34.85985792143605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>DENVER TCE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DENVER TCE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75970</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-DENVERRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>DENVER TCE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5898412794098,-34.86396418577646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>DERRICK MEMORIAL RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DERRICK MEMORIAL RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75971</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-DERMEMRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>DERRICK MEMORIAL RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>SEMAPHORE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.491893713895,-34.84401010578843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>DEVON PARK PLAYGROUND</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DEVON PARK PLAYGROUND</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75972</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-DEVPKPLAY</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>DEVON PARK PLAYGROUND</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5761193530912,-34.88554700962145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>DUNCAN FRASER RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DUNCAN FRASER RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75973</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-DFRASERRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>DUNCAN FRASER RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6235813453423,-34.85342892884891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>DINGLEY DELL RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DINGLEY DELL RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75974</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-DINGDELRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>DINGLEY DELL RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5956540190703,-34.86983488925758,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>DRY CREEK PLAYGROUND</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DRY CREEK PLAYGROUND</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75975</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-DRYCRPLAY</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>DRY CREEK PLAYGROUND</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5862755171464,-34.83834591732389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>DUFFIELD RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DUFFIELD RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75976</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-DUFFLDRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>DUFFIELD RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5188910891117,-34.85607632481745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name>DURANT RD RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DURANT RD RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75977</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-DURANTRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>DURANT RD RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5677959290876,-34.87645361951032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name>LE FEVRE RECREATION RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LE FEVRE RECREATION RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75978</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-LEFEVRERECRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>LE FEVRE RECREATION RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5003153935869,-34.79448206120962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name>PHILLIPS RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>PHILLIPS RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75979</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-PHILIPSRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>PHILLIPS RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>SEMAPHORE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4873440398938,-34.84271118754644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name>PIONEER PARK</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>PIONEER PARK</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75980</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-PIONEERRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>PIONEER PARK</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5120533014433,-34.85478803714651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name>PETER MCKAY RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>PETER MCKAY RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75981</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-PMCKAYRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>PETER MCKAY RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5864768473741,-34.86291229762098,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00074">
+			<name>QUEENSBOROUGH RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>QUEENSBOROUGH RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75982</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-QUEENSBRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>QUEENSBOROUGH RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.639351408955,-34.8652213815824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00075">
+			<name>NORTON RAY RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>NORTON RAY RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75983</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-RAYNORRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>NORTON RAY RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6406129062137,-34.86080000687143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00076">
+			<name>HARRY WIERDA RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>HARRY WIERDA RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75984</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-HWIERDARES-W</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>HARRY WIERDA RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6382451623256,-34.85748725858724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00077">
+			<name>ROBINSON REG RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROBINSON REG RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75985</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-REGROBRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>ROBINSON REG RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5533952911424,-34.85976730391028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00078">
+			<name>REGENCY PARK RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>REGENCY PARK RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75986</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-RGNCYPKRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>REGENCY PARK RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5667631069242,-34.86618071310597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00079">
+			<name>ROY MARTEN RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROY MARTEN RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75987</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-RMARTENRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>ROY MARTEN RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4949673525912,-34.80869355483478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00080">
+			<name>ROBIN RD RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROBIN RD RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75988</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-ROBINRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>ROBIN RD RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>SEMAPHORE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4853504075903,-34.84321134847008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00081">
+			<name>ROGERS E. S. P. RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ROGERS E. S. P. RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75989</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-ROGERSRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>ROGERS E. S. P. RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4928502453878,-34.79063661355435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00082">
+			<name>BONNER RON RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BONNER RON RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75990</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-RONBONRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BONNER RON RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6322694360211,-34.88292464428614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00083">
+			<name>AMER ROY RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>AMER ROY RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75991</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-ROYAMERES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>AMER ROY RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6477285885172,-34.85685299004553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00084">
+			<name>RUSHWORTH RES-SURROUNDS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>RUSHWORTH RES-SURROUNDS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75992</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-RUSHWTHSUR</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>RUSHWORTH RES-SURROUNDS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5929034952233,-34.85151029129685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00085">
+			<name>SECOND AVE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>SECOND AVE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75993</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-SECONDRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>SECOND AVE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5508893689431,-34.8488164653366,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00086">
+			<name>SHUTTER T.K. RES-CENTRE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>SHUTTER T.K. RES-CENTRE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75994</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-SHUTTERCEN</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>SHUTTER T.K. RES-CENTRE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.642259576156,-34.87419046589206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00087">
+			<name>SOMERSET RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>SOMERSET RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75995</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-SOMERSTRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>SOMERSET RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6149259468974,-34.86259476069156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00088">
+			<name>ST ALBANS RES-SURROUNDS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ST ALBANS RES-SURROUNDS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75996</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-STALBANSUR</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>ST ALBANS RES-SURROUNDS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.612516410619,-34.85209128391956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00089">
+			<name>STONEWELL COMMON</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>STONEWELL COMMON</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75997</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-STONERES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>STONEWELL COMMON</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6321768978587,-34.84771961182755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00090">
+			<name>ST PATRICK RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ST PATRICK RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75998</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-STPATRKRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>ST PATRICK RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5143475022384,-34.85774555148397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00091">
+			<name>SUNNYBRAE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>SUNNYBRAE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>75999</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-SUNYBRERES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>SUNNYBRAE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5801671291046,-34.85969605226678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00092">
+			<name>TARTON RD RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TARTON RD RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-TARTONRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>TARTON RD RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6654464817069,-34.85439946635175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00093">
+			<name>TIM HUNT WAY RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TIM HUNT WAY RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76001</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-TIMWAYRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>TIM HUNT WAY RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>SEMAPHORE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4968507564644,-34.83092613383655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00094">
+			<name>TURNER THOMAS RES-EAST</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>TURNER THOMAS RES-EAST</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76002</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-TTURNERRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>TURNER THOMAS RES-EAST</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6685267723651,-34.84241554794238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00095">
+			<name>FORESHORE/UNION-WALCOT</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FORESHORE/UNION-WALCOT</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76003</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-UNIWALFORE</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>FORESHORE/UNION-WALCOT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>SEMAPHORE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4862917632011,-34.82502261398594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00096">
+			<name>VICKERS VIMY RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>VICKERS VIMY RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-VICKVIMRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>VICKERS VIMY RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6330626604228,-34.85315965556079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00097">
+			<name>WAITE ST PLAYGROUND</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>WAITE ST PLAYGROUND</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-WAITEPLAY</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>WAITE ST PLAYGROUND</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4890992717289,-34.84589580579329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00098">
+			<name>WANDANA RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>WANDANA RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-WANDANARES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>WANDANA RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6594177374185,-34.85007675508628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00099">
+			<name>WILKINSON CT RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>WILKINSON CT RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-WILKINRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>WILKINSON CT RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6084675559211,-34.87014766832581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00100">
+			<name>WALKLEY HEIGHTS RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>WALKLEY HEIGHTS RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-WLKHGHRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>WALKLEY HEIGHTS RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6457808321354,-34.84515741979784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00101">
+			<name>WOODLAND RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>WOODLAND RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-WOODLDRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>WOODLAND RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6430284154721,-34.85289051506311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00102">
+			<name>LINEAR PK WINDSOR GR/RIVERSIDE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LINEAR PK WINDSOR GR/RIVERSIDE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-WRIVLINPK</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>LINEAR PK WINDSOR GR/RIVERSIDE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6635588118852,-34.86601260023537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00103">
+			<name>LINEAR PK WINDSOR/WARNER</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LINEAR PK WINDSOR/WARNER</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-WWARLINPK</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>LINEAR PK WINDSOR/WARNER</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6475073866822,-34.88184224660197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00104">
+			<name>YANDRA ST RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>YANDRA ST RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76012</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-YANDRARES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>YANDRA ST RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5062197324926,-34.80882926995982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00105">
+			<name>YONGALA RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>YONGALA RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>76013</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-YONGALARES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>YONGALA RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5030664297518,-34.80768524457974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00106">
+			<name>PORT ADELAIDE RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>PORT ADELAIDE RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>115525</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-PORTADRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>PORT ADELAIDE RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5052416468596,-34.85026969991912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00107">
+			<name>GILLMAN RAILYARDS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>GILLMAN RAILYARDS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>115526</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-GILLMANRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>GILLMAN RAILYARDS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.518435854929,-34.84751956304373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00108">
+			<name>FORESHORE/ BOWER-HART</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FORESHORE/ BOWER-HART</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>115562</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-SEMAPHORES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>FORESHORE/ BOWER-HART</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>SEMAPHORE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4768168613813,-34.84818324453007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00109">
+			<name>ALAN IVERSON RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ALAN IVERSON RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>116086</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>EX-IVERSONRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>ALAN IVERSON RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5052694455974,-34.85182633458049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00110">
+			<name>VETERAN MEMORIAL RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>VETERAN MEMORIAL RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>116087</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-VETERANRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>VETERAN MEMORIAL RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5581638226415,-34.86099368084355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00111">
+			<name>HARGRAVE RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>HARGRAVE RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>118109</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-NICHOLLSRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>HARGRAVE RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4972114918345,-34.83318145543579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00112">
+			<name>NAZER E. P. RES-SURROUNDS</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>NAZER E. P. RES-SURROUNDS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>134246</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-NAZER</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>NAZER E. P. RES-SURROUNDS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.4856044114664,-34.84695772215956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00113">
+			<name>LINEAR PK WINDSOR GR/RIVERSIDE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LINEAR PK WINDSOR GR/RIVERSIDE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>134249</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-WINDSORLINPK</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>LINEAR PK WINDSOR GR/RIVERSIDE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6467276392797,-34.87656801037657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00114">
+			<name>BLAIR ATHOL RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BLAIR ATHOL RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>134660</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-BLAIRATRESS</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>BLAIR ATHOL RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>ENFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5934047681384,-34.85832941834081,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00115">
+			<name>HARRY WIERDA RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>HARRY WIERDA RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>134693</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-HWIERDARES-E</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>HARRY WIERDA RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6400429542432,-34.85673911995404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00116">
+			<name>FORESHORE/ HART-UNION</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FORESHORE/ HART-UNION</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>134694</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-HARUNIFORE-N</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>FORESHORE/ HART-UNION</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>SEMAPHORE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.480798285027,-34.83584296233242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00117">
+			<name>FRANCIS ST RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FRANCIS ST RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>135065</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-FRANCISSTRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>FRANCIS ST RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6304754707451,-34.86018624782012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00118">
+			<name>THE STRAND RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>THE STRAND RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>135066</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-THSTRANDRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>THE STRAND RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6322306458978,-34.86007244288703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00119">
+			<name>COMPANY ST RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>COMPANY ST RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>135207</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-COMPSQRESWEST</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>COMPANY ST RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PORT ADELAIDE WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5183614453824,-34.86116332997057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00120">
+			<name>JOHN CROCI RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>JOHN CROCI RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>138547</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-JOHNCROCIRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>JOHN CROCI RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.548423441728,-34.85517241874324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00121">
+			<name>SHILLABEER RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>SHILLABEER RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>138791</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-SHILLABEER</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>SHILLABEER RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>PARKS WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5608941989767,-34.87356530397042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00122">
+			<name>LIGHTSVIEW CIVIC PLACE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LIGHTSVIEW CIVIC PLACE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>139599</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-LIGHTSVWCIVPL</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>LIGHTSVIEW CIVIC PLACE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>NORTHFIELD WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.6334625049218,-34.8615683202453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00123">
+			<name>KLEMZIG RECREATION RESERVE</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>KLEMZIG RECREATION RESERVE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>143742</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-KLEMZIGRECRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>KLEMZIG RECREATION RESERVE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>KLEMZIG WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.632828248353,-34.87548477377221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00124">
+			<name>MEYER RES</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>MEYER RES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Compkey</td>
+
+<td>146502</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>UnitID</td>
+
+<td>PG-MEYERRES</td>
+
+</tr>
+
+<tr>
+
+<td>AreaDescription</td>
+
+<td>MEYER RES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DistrictDescription</td>
+
+<td>OUTER HARBOUR WARD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle001</styleUrl>
+			<Point>
+				<coordinates>138.5057396070104,-34.81304755136064,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

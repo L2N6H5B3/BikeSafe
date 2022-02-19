@@ -1,0 +1,117 @@
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Bike Safe</title>
+    <style>
+		  html, body, #map-canvas {
+			height: 100%;
+			margin: 0px;
+			padding: 0px
+		  }
+			#headder {
+			background-color: #000;
+		}
+			#headder .logo {
+			height: auto;
+			max-height: 100%;
+			max-width: 100%;
+		}
+			#headder #text {
+			float: right;
+			height: 100%;
+			width: auto;
+			font-size: 14px;
+		}
+			#headder #text p {
+			font-size: 14px;
+			color: #FFF;
+			text-align: right;
+			font-family: Arial, Helvetica, sans-serif;
+			float: right;
+			padding-right: 10px;
+		}
+    
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+    <script>		
+		var rendererOptions = {
+		  draggable: true
+		};
+		var directionsDisplay = new google.maps.DirectionsRenderer(rendererOptions);;
+		var directionsService = new google.maps.DirectionsService();
+		var map;
+		
+		var adelaide = new google.maps.LatLng( -34.928726400000000000, 138.599945299999940000);
+		
+		function initialize() {
+		
+		  var mapOptions = {
+			zoom: 11,
+			center: adelaide
+		  };
+		  
+		  map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+		  directionsDisplay.setMap(map);
+		  directionsDisplay.setPanel(document.getElementById('directionsPanel'));
+		  
+		  ctaLayer = new google.maps.KmlLayer({
+			  url: 'http://bikesafe.web44.net/PedestrianCrossings.kml'
+		  });
+		  
+		  crashLayer = new google.maps.KmlLayer({
+			  url: 'http://bikesafe.web44.net/CrashMark.kml'
+		  });
+		  
+		  
+		  google.maps.event.addListener(directionsDisplay, 'directions_changed', function() {
+			computeTotalDistance(directionsDisplay.getDirections());
+		  });
+		  ctaLayer.setMap(map);
+		  crashLayer.setMap(map);
+		  calcRoute();
+		  //map.data.loadGeoJson('http://storage.googleapis.com/maps-devrel/google.json');
+		}
+		
+		function calcRoute() {
+		
+		  var request = {
+			origin: 'Adelaide, SA',
+			destination: 'Playford Civic Centre, Elizabeth SA',
+			travelMode: google.maps.TravelMode.BICYCLING
+		  };
+		  directionsService.route(request, function(response, status) {
+			if (status == google.maps.DirectionsStatus.OK) {
+			  directionsDisplay.setDirections(response);
+			}
+		  });
+		}
+		
+		function computeTotalDistance(result) {
+		  var total = 0;
+		  var myroute = result.routes[0];
+		  for (var i = 0; i < myroute.legs.length; i++) {
+			total += myroute.legs[i].distance.value;
+		  }
+		  total = total / 1000.0;
+		  document.getElementById('total').innerHTML = total + ' km';
+		}
+		
+		google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+  </head>
+  <body>
+  <div id="headder" style="width: 100%;height:10%">
+  	<img src="images/BikeSafelogo.jpg" class='logo'>
+    <div id="text">
+      <p>HELPING KIDS FIND A SAFE BIKE PATH TO SCHOOL<br />
+    Pin A on your home address then pin B to your school address.<br />
+    BIKE SAFE will show you the dangers between your home and school to help you find a safer way to go.</p>
+    </div>  
+  </div>
+  <div id="map-canvas" style="float:left;width:70%; height:90%"></div>
+  <div id="directionsPanel" style="float:right;width:30%;height: 90%;overflow-y:scroll">
+    <p>Total Distance: <span id="total"></span></p>
+    </div>
+  </body>
+</html>
